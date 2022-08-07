@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\modoaire.o
+./debug\modotierra.o
+./debug\qtquick2applicationviewer.o
+./debug\qrc_recursos.o
+./debug\moc_qtquick2applicationviewer.o
+./debug\moc_modoaire.o
+./debug\moc_modotierra.o
+./debug\moc_MyVideo.o
+./debug\moc_MyProveedor.o
+);

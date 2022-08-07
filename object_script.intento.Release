@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\modoaire.o
+./release\modotierra.o
+./release\qtquick2applicationviewer.o
+./release\qrc_recursos.o
+./release\moc_qtquick2applicationviewer.o
+./release\moc_modoaire.o
+./release\moc_modotierra.o
+./release\moc_MyVideo.o
+./release\moc_MyProveedor.o
+);

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vista.jpg</file>
+        <file>intento80.png</file>
+        <file>Air.jpg</file>
+        <file>Grass.jpg</file>
+        <file>fondoAire.jpg</file>
+        <file>vincular.jpg</file>
+        <file>fondoTierra.jpg</file>
+    </qresource>
+</RCC>
