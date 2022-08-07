@@ -3,7 +3,7 @@ folder_01.source = qml/intento
 folder_01.target = qml
 DEPLOYMENTFOLDERS = folder_01
 
-QT += qml quick multimedia network testlib multimediawidgets
+QT += qml quick multimedia network testlib
 
 # Additional import path used to resolve QML modules in Creator's code model
 QML_IMPORT_PATH =
@@ -25,7 +25,7 @@ FORMS +=
 HEADERS += \
     modoaire.h \
     modotierra.h \
-    MyVideo.h
+    
 
 OTHER_FILES += principal.qml\
 aire.qml\
